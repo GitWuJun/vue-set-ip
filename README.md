@@ -131,5 +131,6 @@ inquirer.prompt(promptList).then(answers => {
 ```
 
 #### 项目地址
+[vue-set-ip](https://github.com/GitWuJun/vue-set-ip)
 
 
